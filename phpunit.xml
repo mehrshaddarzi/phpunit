@@ -5,7 +5,7 @@
         bootstrap="vendor/autoload.php">
 
     <testsuites>
-        <testsuite name="Unit Test">
+        <testsuite name="unit">
             <directory suffix=".php">tests/Unit</directory>
         </testsuite>
     </testsuites>
